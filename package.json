@@ -1,5 +1,5 @@
 {
-  "name": "SFTPServer",
+  "name": "Files",
   "logo": "folder-icon.png",
   "version": "0.0.1",
   "description": "A sample app for you that runs a ftp server",
