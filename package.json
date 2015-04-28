@@ -2,7 +2,7 @@
   "name": "SFTPServer",
   "logo": "folder-icon.png",
   "version": "0.0.1",
-  "description": "A sample app for you to start building!",
+  "description": "A sample app for you that runs a ftp server",
   "main": "server.js",
   "dependencies": {
     "minimist": "^1.1.1"
