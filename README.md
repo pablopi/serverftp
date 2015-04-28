@@ -1,1 +1,1 @@
-# serverftp
+# ftpserver
